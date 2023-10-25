@@ -1,0 +1,29 @@
+/* src css file */
+
+
+/* css text 'hamza khaled' */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* css background */
+.profile {
+  background-color: #ffffff;
+  border: 1px solid #3b3b3b;
+  padding: 20px;
+  margin-top: 20px;
+}
+/* css button */
+button {
+  background-color: #0084f0;
+  color: #ffffff;
+  border: none;
+  padding: 20px 80px;
+  cursor: pointer;
+}
+/* css time */
+.time {
+  margin-top: 10px;
+  font-style: italic;
+}
